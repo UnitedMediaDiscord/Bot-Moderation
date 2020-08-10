@@ -1,27 +1,9 @@
-Welcome to Glitch
-=================
+<h2>United Discord Bot (Moderation Module)</h2>
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+This is the code used for UnitedMedia's Discord Bot. Seeing as UnitedMedia has now shut down, we thought it'd be best to open-source the project.
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+Code is licensed under GPLv3, a copy of the license can be found in `LICENSE.TXT`.
 
-Find out more [about Glitch](https://glitch.com/about).
+<h3>Credit</h3>
 
-
-Your Project
-------------
-
-On the front-end,
-- edit `public/client.js`, `public/style.css` and `views/index.html`
-- drag in `assets`, like images or music, to add them to your project
-
-On the back-end,
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env` (nobody can see this but you and people you invite)
-
-
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
+* This project was mostly created by [DamonOnYT](https://damonon.yt), you can contact him at [damon@ddidevelopment.com](mailto:damon@ddidevelopment.com)
